@@ -3,7 +3,7 @@
 
 ## （一）讨论方式
 ### 1. 通过GitHub协作  
-### 2. 在code页面上传或下载文档（如pdf或word）：
+### 2. 点击code页面，上传或下载文档（如pdf或word）：
     > 上传：add file -> upload files  
     > 下载：download zip
 
